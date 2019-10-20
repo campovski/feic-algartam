@@ -1,0 +1,29 @@
+{
+  "name": "feic-algartam",
+  "version": "0.0.1",
+  "description": "Visualisation of algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campovski/feic-algartam.git"
+  },
+  "keywords": [
+    "visualise",
+    "algorithm",
+    "search",
+    "path"
+  ],
+  "author": "Marcel Campovski",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/campovski/feic-algartam/issues"
+  },
+  "homepage": "https://github.com/campovski/feic-algartam#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "mocha": "^6.2.1"
+  }
+}
